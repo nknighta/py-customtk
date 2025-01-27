@@ -4,7 +4,7 @@ git clone https://github.com/nknighta/py-customtk/
 ```
 
 ```bash
-coda activate <YOUR-ENV-NAME>
+conda activate <YOUR-ENV-NAME>
 ```
 
 ```bash
